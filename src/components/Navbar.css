@@ -1,0 +1,32 @@
+.navbar {
+  background: #071b33;
+  color: white;
+  height: 90px;
+  padding: 0 7%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.logo {
+  font-size: 28px;
+  font-weight: bold;
+}
+
+.navbar nav {
+  display: flex;
+  gap: 24px;
+}
+
+.navbar nav a {
+  color: white;
+  text-decoration: none;
+}
+
+.quote-btn {
+  background: #c62828;
+  color: white;
+  padding: 12px 20px;
+  border-radius: 6px;
+  text-decoration: none;
+}
